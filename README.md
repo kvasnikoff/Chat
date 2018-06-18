@@ -14,3 +14,7 @@
 После проделанных действий появляется позможность писать сообщения в чат
 
 ![Alt Text](https://media.giphy.com/media/vxAu7S2yGUOG9kVNrr/giphy.gif)
+
+При присоединений других пользователей к чату, вы получите текстовое уведомление
+
+![Alt Text](https://media.giphy.com/media/1XdQNl5ZYCDXfS63IB/giphy.gif)
