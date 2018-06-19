@@ -19,6 +19,10 @@
 
 ![Alt Text](https://media.giphy.com/media/1XdQNl5ZYCDXfS63IB/giphy.gif)
 
+Для навигации между сообщениями можно использовать либо скроллинг, либо трекпад
+
+![Alt Text](https://media.giphy.com/media/9DxgOKEtzvQ4FcUQ8j/giphy.gif)
+
 Для выхода из чата следует ввести команду {quit}, либо просто закрыть окно программы.
 
 ![Alt Text](https://media.giphy.com/media/WwMtLrdnI1REP9pmsA/giphy.gif)
